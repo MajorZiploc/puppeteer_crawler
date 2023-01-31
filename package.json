@@ -1,0 +1,13 @@
+{
+  "name": "puppeteer_crawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:MajorZiploc/puppeteer_crawler.git",
+  "author": "Manyu Lakhotia <lakemonyew@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "json-test-utility": "^0.3.4",
+    "json2csv": "^5.0.6"
+  }
+}
